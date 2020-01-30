@@ -5,5 +5,8 @@
 </template>
 
 <script>
-export default {}
+import { Vue, Component } from 'nuxt-property-decorator'
+
+@Component
+export default class Index extends Vue {}
 </script>
