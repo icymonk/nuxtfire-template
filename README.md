@@ -3,7 +3,7 @@
 > Nuxt.js + Firebase
 > VSCode, PWA, SPA, ESLint, Prettier, StyleLint
 > Vuetify, Axios, DotENV, Jest
-> nuxt-i18n, nuxt-property-decorator
+> vue-emotion nuxt-i18n, nuxt-property-decorator
 
 ## Build Setup
 

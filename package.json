@@ -27,7 +27,8 @@
     "firebase": "^7.7.0",
     "nuxt": "^2.11.0",
     "nuxt-i18n": "^6.5.0",
-    "nuxt-property-decorator": "^2.5.0"
+    "nuxt-property-decorator": "^2.5.0",
+    "vue-emotion": "^0.4.29"
   },
   "devDependencies": {
     "@nuxtjs/vuetify": "^1.10.2",
